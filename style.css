@@ -1,0 +1,29 @@
+body,h1,h2,h3,h4,h5,h6{
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* Header Style  */
+.my_header {
+
+}
+.my_header .navbar-brand {
+    font-size: 25px;
+    font-weight: 500;
+}
+.my_header span{
+    display: inline-block;
+    background: #6278df;
+    color: #fff;
+    height: 43px;
+    width: 39px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 28px;
+    position: relative;
+    top: 3px;
+}
+/* Slider Section */
+.slider_section{
+    background: url(./img/bg.jpg) no-repeat center;
+    padding: 200px 0;
+}
